@@ -5,20 +5,15 @@
 ### 1. Ping-Pong game
 
 [Ping-Pong game using Reinforcement Learing](http://karpathy.github.io/2016/05/31/rl/)
-
-Korean Translation blog of thisblog
-
-http://keunwoochoi.blogspot.kr/2016/06/andrej-karpathy.html
+[Korean Translation blog of this blog](http://keunwoochoi.blogspot.kr/2016/06/andrej-karpathy.html)
 
 ### 2. OpenAI Gym Site
 
-Ping-Pong game used OpenAI Gym
-
-https://gym.openai.com/
+[OpenAI Gym used by Ping-Pong game](https://gym.openai.com/)
 
 This site provides the inforamtion about various games using Reinforcement Learning.
 
-The following is about using OpenAI Gym site
+The following is how to use Gym site
 
 git clone https://github.com/openai/gym
 
@@ -34,23 +29,13 @@ please check https://github.com/openai/gym about various environmnets
 
 ### 3. Ping-Pong game using Policy Gradients
 
-The following site provides Ping-Pong game code using Policy Gradients.
-
-https://gist.github.com/karpathy/a4166c7fe253700972fcbc77e4ea32c5
-
-The following is the blog about this code.
-
-http://karpathy.github.io/2016/05/31/rl/
+[Ping-Pong game code using Policy Gradients](https://gist.github.com/karpathy/a4166c7fe253700972fcbc77e4ea32c5)
+[The blog about this code](http://karpathy.github.io/2016/05/31/rl/)
 
 ### 4. DeepMind Paper about Atari game using Reiforcement Learning
 
-The following site provides the paper.
-
-https://arxiv.org/abs/1312.5602
-
-The following site translated this paper to Korean.
-
-http://sanghyukchun.github.io/90
+[The paper](https://arxiv.org/abs/1312.5602)
+[Korean Translation](http://sanghyukchun.github.io/90)
 
 ### 5. Atari game code using "Playing Atari with Deep Reinforcement Learning" paper of DeepMind
 
@@ -60,9 +45,7 @@ https://github.com/spragunr/deep_q_rl
 
 https://github.com/kuz/DeepMind-Atari-Deep-Q-Learner
 
-The paper is not free.
-
-http://www.nature.com/nature/journal/v518/n7540/full/nature14236.html
+[The paper is not free](http://www.nature.com/nature/journal/v518/n7540/full/nature14236.html)
 
 The following sites are helpful.
 
