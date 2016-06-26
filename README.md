@@ -4,9 +4,7 @@
 
 ### 1. Ping-Pong game
 
-Ping-Pong game using Reinforcement Learing
-
-http://karpathy.github.io/2016/05/31/rl/
+[Ping-Pong game using Reinforcement Learing](http://karpathy.github.io/2016/05/31/rl/)
 
 Korean Translation blog of thisblog
 
