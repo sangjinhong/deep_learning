@@ -21,7 +21,7 @@ cd gym
 
 pip install gym
 
-After installed gym, you have to install enviroment using the following
+After installing gym, you have to install enviroment using the following
 
 sudo -H pip install -e ‘.[atari]’
 
