@@ -66,9 +66,10 @@ The paper is not free.
 
 http://www.nature.com/nature/journal/v518/n7540/full/nature14236.html
 
-The following sites is helpful.
+The following sites are helpful.
 
 https://arxiv.org/abs/1312.5602
+
 http://sanghyukchun.github.io/90/
 
 ## 2. Image Processing using Deep Learning
