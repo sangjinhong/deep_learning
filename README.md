@@ -77,6 +77,6 @@ http://sanghyukchun.github.io/90/
 
 http://hi.cs.waseda.ac.jp/~iizuka/projects/colorization/en/
 
-### 2. Code coverting gray picture to color picture using deep learning
+### 2. The code coverting gray picture to color picture using deep learning
 
 http://www.shun.bz/20160127/1050814061.html
