@@ -5,14 +5,17 @@
 ### 1. Ping-Pong game
 
 Ping-Pong game using Reinforcement Learing
+
 http://karpathy.github.io/2016/05/31/rl/
 
 Korean Translation blog of thisblog
+
 http://keunwoochoi.blogspot.kr/2016/06/andrej-karpathy.html
 
 ### 2. OpenAI Gym Site
 
 Ping-Pong game used OpenAI Gym
+
 https://gym.openai.com/
 
 This site provides the inforamtion about various games using Reinforcement Learning.
@@ -20,7 +23,9 @@ This site provides the inforamtion about various games using Reinforcement Learn
 The following is about using OpenAI Gym site
 
 git clone https://github.com/openai/gym
+
 cd gym
+
 pip install gym
 
 After installed gym, you have to install enviroment using the following
