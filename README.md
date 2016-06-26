@@ -5,7 +5,7 @@
 ### 1. Ping-Pong game
 
 [Ping-Pong game using Reinforcement Learing](http://karpathy.github.io/2016/05/31/rl/)
-[Korean Translation blog of this blog](http://keunwoochoi.blogspot.kr/2016/06/andrej-karpathy.html)
+[Korean Translation](http://keunwoochoi.blogspot.kr/2016/06/andrej-karpathy.html)
 
 ### 2. OpenAI Gym Site
 
