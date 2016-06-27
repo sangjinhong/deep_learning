@@ -39,13 +39,13 @@
 
 ### Atari game code using "Playing Atari with Deep Reinforcement Learning" paper of DeepMind
 
-  https://github.com/spragunr/deep_q_rl
+* https://github.com/spragunr/deep_q_rl
 
 ### The code using "Human-level control through deep reinforcement learning" of DeepMind
 
 * https://github.com/kuz/DeepMind-Atari-Deep-Q-Learner
 
-[The paper is not free](http://www.nature.com/nature/journal/v518/n7540/full/nature14236.html)
+  [The paper is not free](http://www.nature.com/nature/journal/v518/n7540/full/nature14236.html)
 
 * The following sites are helpful.
 
@@ -57,8 +57,8 @@
 
 ### The paper about coverting gray picture to color picture using deep learning
 
-  http://hi.cs.waseda.ac.jp/~iizuka/projects/colorization/en/
+* http://hi.cs.waseda.ac.jp/~iizuka/projects/colorization/en/
 
 ### The code coverting gray picture to color picture using deep learning
 
-  http://www.shun.bz/20160127/1050814061.html
+* http://www.shun.bz/20160127/1050814061.html
