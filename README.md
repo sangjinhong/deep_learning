@@ -1,11 +1,11 @@
 # Deep Learning Information
 
-## 1. Reinforcement Learning
+## Reinforcement Learning
 
-### 1. Ping-Pong game
+### Ping-Pong game
 
-[Ping-Pong game using Reinforcement Learing](http://karpathy.github.io/2016/05/31/rl/)
-[Korean Translation](http://keunwoochoi.blogspot.kr/2016/06/andrej-karpathy.html)
+* [Ping-Pong game using Reinforcement Learing](http://karpathy.github.io/2016/05/31/rl/)
+* [Korean Translation](http://keunwoochoi.blogspot.kr/2016/06/andrej-karpathy.html)
 
 ### 2. OpenAI Gym Site
 
