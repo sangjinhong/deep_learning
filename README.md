@@ -35,6 +35,7 @@ please check https://github.com/openai/gym about various environmnets
 ### 4. DeepMind Paper about Atari game using Reiforcement Learning
 
 [The paper](https://arxiv.org/abs/1312.5602)
+
 [Korean Translation](http://sanghyukchun.github.io/90)
 
 ### 5. Atari game code using "Playing Atari with Deep Reinforcement Learning" paper of DeepMind
