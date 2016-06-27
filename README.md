@@ -11,7 +11,7 @@
 
 * [OpenAI Gym used by Ping-Pong game](https://gym.openai.com/)
 
-This site provides the inforamtion about various games using Reinforcement Learning.
+  This site provides the inforamtion about various games using Reinforcement Learning.
 
 * The following is how to use Gym site
 
